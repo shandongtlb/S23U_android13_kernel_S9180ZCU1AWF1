@@ -1,4 +1,3 @@
-################################################################################
 1. How to Build
         - get Toolchain
                 get the proper toolchain packages from AOSP or CodeSourcery or ETC.
@@ -44,4 +43,3 @@
         Change to OUTPUT_DIR folder
         EX) /home/dpi/qb5_8815/workspace/P4_1788/android/out/target/product/dm3q/out
         $ make clean
-################################################################################
