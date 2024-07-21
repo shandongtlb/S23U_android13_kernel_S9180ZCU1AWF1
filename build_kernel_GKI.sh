@@ -39,6 +39,8 @@ export KBUILD_EXT_MODULES="../vendor/qcom/opensource/mm-drivers/msm_ext_display 
   ../vendor/qcom/opensource/display-drivers/msm \
   ../vendor/qcom/opensource/audio-kernel \
   ../vendor/qcom/opensource/camera-kernel \
+  ../vendor/qcom/opensource/wlan/platform \
+  ../vendor/qcom/opensource/wlan/qcacld-3.0 \
   "
   
 #3. build kernel
