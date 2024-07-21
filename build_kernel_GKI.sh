@@ -25,6 +25,7 @@ export KBUILD_EXTRA_SYMBOLS="${ANDROID_BUILD_TOP}/out/vendor/qcom/opensource/mmr
 		${ANDROID_BUILD_TOP}/out/vendor/qcom/opensource/mm-drivers/sync_fence/Module.symvers \
 		${ANDROID_BUILD_TOP}/out/vendor/qcom/opensource/mm-drivers/msm_ext_display/Module.symvers \
 		${ANDROID_BUILD_TOP}/out/vendor/qcom/opensource/securemsm-kernel/Module.symvers \
+                ${ANDROID_BUILD_TOP}/out/vendor/qcom/opensource/wlan/platform/Module.symvers \
 "
 
 # for Audio(techpack) driver build
